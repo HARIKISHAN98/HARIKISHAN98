@@ -6,6 +6,6 @@
 
 💼 I have uploaded projects and solved coding questions to showcase my skills and demonstrate my understanding of different programming concepts.
 
-🤝 I'm open to collaboration and working on interesting projects. If you have any ideas or opportunities, feel free to reach out to me. You can contact me via email at harikishanmittal198@gmail.com or connect with me on LinkedIn.
+🤝 I'm open to collaboration and working on interesting projects. If you have any ideas or opportunities, feel free to reach out to me. You can contact me via email at harikishanmittal198@gmail.com or connect with me on LinkedIn : https://www.linkedin.com/in/harikishanmittal/
 
 Let's connect and build amazing things together! 🚀
