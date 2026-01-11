@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harikishan Mittal
 
 🚀 **Full Stack Web Developer (MERN)**  
-🎯 Passionate about building high-performance, scalable, and user-friendly web applications.
+🎯 Passionate about building high-performance, scalable, and AI-powered web applications.
 
 ---
 
@@ -9,9 +9,11 @@
 
 ### Frontend
 - React.js, Next.js
+- Redux Toolkit (State Management)
 - HTML5, CSS3, JavaScript (ES6+)
 - Tailwind CSS, Bootstrap
 - Responsive UI/UX Design
+- Shimmer UI & Skeleton Loaders
 
 ### Backend
 - Node.js, Express.js
@@ -20,11 +22,18 @@
 ### Database
 - MongoDB, MySQL
 
+### Authentication & Cloud
+- Firebase Authentication
+- Vercel (Deployment)
+
+### AI & Integrations
+- OpenAI GPT API
+- TMDB API (Movies, Trailers, Metadata)
+- Prompt Engineering (Basics)
+- Semantic Search & Recommendation Logic
+
 ### Tools & Platforms
 - Git, GitHub, Postman, VS Code
-- Vercel (Deployment)
-- Clerk Authentication
-- Stripe Payment Integration
 - Axios
 
 ### Core CS
@@ -46,11 +55,18 @@
 
 ---
 
-### 🔹 LearnConnect – MERN LMS Platform
-- Full authentication using **Clerk**
-- **Stripe** payment integration
-- Complete **MERN architecture**
-- Optimized UI & scalable backend
+### 🔹 Netflix GPT – AI Powered Movie Discovery Platform (Netflix GPT+)
+- Built with **React, Redux Toolkit & Tailwind CSS**
+- Integrated **OpenAI GPT API** for intelligent movie recommendations
+- AI-powered semantic search experience
+- **TMDB API** integration for movies, trailers & real-time data
+- **Firebase Authentication** for secure user login
+- Optimized performance using debouncing, memoization & lazy loading
+- Shimmer UI for smooth loading experience
+- Scalable folder architecture & production-ready deployment on Vercel
+
+🔗 **Live:** https://netflix-gpt-nu-eight.vercel.app  
+🔗 **Repo:** https://github.com/HARIKISHAN98/NetflixGPT  
 
 ---
 
@@ -63,21 +79,11 @@
 
 ---
 
-## 💼 Experience
-
-**Relationship Manager – Realty Assistant Pvt. Ltd., Noida**  
-*July 2025 – Nov 2025*
-- Client handling & project coordination  
-- Site visits & documentation  
-- Developed strong communication & business skills  
-
----
-
 ## 🎯 What I’m Looking For
 
 - Frontend Developer / Full Stack Developer roles  
-- Startup & product-based companies  
-- Real-world scalable projects  
+- Product-based & AI-driven startups  
+- Real-world scalable applications  
 - Open-source collaboration  
 
 ---
@@ -86,7 +92,6 @@
 
 📧 Email: **harikishanmittal198@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/harikishanmittal/**  
-🌐 Portfolio: **Spireon Tech**
 
 ---
 
